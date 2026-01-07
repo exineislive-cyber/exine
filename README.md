@@ -27,3 +27,47 @@
 
 </body>
 </html>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #0f172a;
+    color: white;
+}
+
+.category {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.category h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.game-card {
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.game-card h2 {
+    margin: 0 0 10px;
+}
+
+.game-card p {
+    font-size: 14px;
+    color: #cbd5f5;
+}
+
+.game-card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background: #22c55e;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
